@@ -1,2 +1,2 @@
-# UniversityDynamicWeb
-The main goal of our project is to design a web-based dynamic registration system for Maple Leaf University that will provide the functional requirements for students, admin, faculty, visitor and researcher. 
+# MapleU_Site
+This is a recreation of a school website. It makes use of CRUD throughout majority of the website. Theres 4 different user levels. Admin/Researcher/Student/Faculty.
